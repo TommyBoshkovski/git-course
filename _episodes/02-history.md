@@ -53,6 +53,12 @@ changes will be displayed at the top):
 ~~~
 $ git log
 ~~~
+
+or 
+
+~~~
+$ git log --graph
+~~~
 {: .language-bash}
 
 ```
