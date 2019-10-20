@@ -24,9 +24,6 @@ if you do not already have one.
 
 ## Resources
 
-You can check out the slideshow for this workshop [here](https://slides.com/emdupre/git-course).
-
-
 There are lots of other great resources out there !
 Here are a few of our favorites:
 
