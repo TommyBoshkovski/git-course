@@ -1,6 +1,6 @@
 ---
 title: "Tracking changes with a local repository"
-teaching: 35
+teaching: 10
 exercises: 0
 questions:
 - "How do I get started with Git?"
